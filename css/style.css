@@ -1,0 +1,60 @@
+body{
+	margin: 0%;
+	padding: 0%;
+	font-family: Arial;
+}
+/*navbar image*/
+.navimg{
+	width: 8%;
+}
+/*navbar image*/
+
+/*heading about*/
+.about{
+    margin: 5%;
+}
+/*heading about*/
+
+/*card styling*/
+.crd{
+	width: 80%;
+	color: white;
+	border: none;
+}
+/*card styling*/
+.last{
+	margin-top: 4%;
+	background-color: #343a40;
+	color: white;
+}
+ul li{
+	list-style: none;
+}
+hr {
+	background-color: white;
+}
+.link{
+	color: white ;
+	text-decoration: underline;
+	font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+.emina{
+    margin-top: 20%
+}
+.tis{
+	margin-top: 30%;
+}
+.icon{
+	color: white;
+	padding: 1%;
+}
+.affix{
+	background-color: green;
+}
+.last-lost:hover{
+	color: rgb(229, 191, 62) !important ;
+}
+.last-lost a:hover{
+	color: rgb(229, 191, 62) !important ;
+	text-decoration: none !important ;
+}
